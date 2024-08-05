@@ -5,7 +5,7 @@ A simple command line input text summarizer made using the Qwen2 0.5B model.
 1. A simple and fast text summarizer.
 2. Summaries generated through Qwen2 0.5B model in Ollama accessed through the Ollama API.
 3. Supports command line input of both texts and text files as parameters.
-4. Suited only for Linux
+4. Suited only for __Linux__
 
 NOTE: The text file __must__ be in the same directory as of the script. 
 
