@@ -10,7 +10,7 @@ A simple command line input text summarizer made using the Qwen2 0.5B model.
 NOTE: The text file __must__ be in the same directory as of the script. 
 
 ## Getting Started
-1. `$ git clone https://github.com/ananyab1909/ollama-summariser.git` - clone this project to your computer
+1. `$ git clone https://github.com/ananyab1909/ollama-summarizer.git` - clone this project to your computer
 2. `$ cd ollama-summarizer` - go inside the project directory.
 3. `pip install click` to install click library.
 4. `pip install requests` to install the requests (only if not previously installed).    
