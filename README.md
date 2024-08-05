@@ -31,7 +31,6 @@ NOTE: python3 is applicable for only Python 3.8 or above. Please enter according
 
 ## API Configuration
 - The API documentation is available at [Github](https://github.com/ollama/ollama/tree/main)
-- The script is configured to send requests at [http://localhost:11434/api/chat](http://localhost:11434/api/chat)
 - Please ensure that the server is properly running before executing the script.
 
 ## About Me
